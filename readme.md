@@ -1,6 +1,6 @@
 # DTU Times Edition API Docs
 
-Base URL: ``
+Base URL: `6887959d8e4235a53376e811`
 
 ---
 

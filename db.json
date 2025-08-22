@@ -1,0 +1,160 @@
+{
+  "editions": [
+    {
+      "_id": "6887959d8e4235a53376e811",
+      "name": "Edition 68",
+      "edition_id": 68,
+      "status": 1,
+      "edition_link": "https://www.google.com",
+      "published_at": "2025-07-28T15:22:53.911Z",
+      "createdAt": "2025-07-28T15:22:05.674Z",
+      "updatedAt": "2025-07-28T15:22:53.912Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-68",
+      "__v": 0
+    },
+    {
+      "_id": "68651fb43fc056e709e53fe6",
+      "name": "Edition 67",
+      "edition_id": 67,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/131LWgYUtyc8LjIPdgLF1A_Uf1_3vKpyF/view?usp=drive_link",
+      "published_at": "2025-07-02T12:03:02.697Z",
+      "createdAt": "2025-07-02T12:01:56.367Z",
+      "updatedAt": "2025-07-02T12:03:02.698Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-56?thumbnail=true",
+      "__v": 0
+    },
+    {
+      "_id": "67c181dd3958c7f3a4f54ed8",
+      "name": "Edition 65",
+      "edition_id": 65,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/1Wr_l0nPUnJL9WH0AuYndfDujJj1R_bG_/view?usp=sharing",
+      "published_at": "2025-02-28T09:29:01.508Z",
+      "createdAt": "2025-02-28T09:29:01.512Z",
+      "updatedAt": "2025-02-28T09:29:01.512Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-65",
+      "__v": 0
+    },
+    {
+      "_id": "66a675405211897a9c215773",
+      "name": "Edition 64",
+      "edition_id": 64,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/15_Rcf9ViN-HAjQjnvsLrZmC2tzXNtUzs/view?usp=sharing",
+      "published_at": "2024-07-28T16:44:03.272Z",
+      "createdAt": "2024-07-28T16:43:44.279Z",
+      "updatedAt": "2024-07-28T16:44:03.273Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-64",
+      "__v": 0
+    },
+    {
+      "_id": "66254c7ba09559a38914edbd",
+      "name": "Edition 63",
+      "edition_id": 63,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/1JzhoL9SSTucFPV9AhGMYoOTP5wrgA7xh/view?usp=sharing",
+      "published_at": "2024-05-10T15:01:00.190Z",
+      "createdAt": "2024-04-21T17:27:23.980Z",
+      "updatedAt": "2024-05-10T15:01:00.190Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-63",
+      "__v": 0
+    },
+    {
+      "_id": "66102b80de40518a4b3329b3",
+      "name": "Edition 62",
+      "edition_id": 62,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/17UwBJ_cziSDUfR4pzdTES7VGjqR8oGbF/view?usp=drive_link",
+      "published_at": "2024-04-05T16:58:40.169Z",
+      "createdAt": "2024-04-05T16:49:04.162Z",
+      "updatedAt": "2024-04-05T16:58:40.170Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-62",
+      "__v": 0
+    },
+    {
+      "_id": "660680b8ba552096186cd3bc",
+      "name": "Edition 61",
+      "edition_id": 61,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/1IdkEMDnDZ72swWtd3HYX18WBp6g5pnEc/view?usp=drive_link",
+      "published_at": "2024-01-02T23:32:00.000Z",
+      "createdAt": "2024-01-02T23:30:29.000Z",
+      "updatedAt": "2024-01-02T23:32:00.000Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-61",
+      "__v": 0
+    },
+    {
+      "_id": "660680b8ba552096186cd3bb",
+      "name": "Edition 60",
+      "edition_id": 60,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/1VJkn0ZxnyrQny2odMxgkBGlQ2dVaMb0E/view?usp=drive_link",
+      "published_at": "2023-08-01T14:27:45.000Z",
+      "createdAt": "2023-07-31T21:36:54.000Z",
+      "updatedAt": "2023-08-01T14:27:45.000Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-60",
+      "__v": 0
+    },
+    {
+      "_id": "660680b8ba552096186cd3ba",
+      "name": "Edition 59",
+      "edition_id": 59,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/1-ip0atJfoHHPzXNmBdlsWad0q4swxMHZ/view?usp=sharing",
+      "published_at": "2024-07-25T14:00:50.877Z",
+      "createdAt": "2023-05-29T19:23:57.000Z",
+      "updatedAt": "2024-07-25T14:00:50.878Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-59?thumbnail=true",
+      "__v": 0
+    },
+    {
+      "_id": "660680b8ba552096186cd3b9",
+      "name": "Edition 58",
+      "edition_id": 58,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/1xa8vo6pCyYxpfysrAOz6oKd_lLjHtExP/view?usp=drive_link",
+      "published_at": "2023-02-18T01:02:06.000Z",
+      "createdAt": "2023-02-18T00:52:41.000Z",
+      "updatedAt": "2023-02-18T01:02:06.000Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-58?thumbnail=true",
+      "__v": 0
+    },
+    {
+      "_id": "660680b8ba552096186cd3b8",
+      "name": "Edition 57",
+      "edition_id": 57,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/1dPjOcFNSdkd6MvpxE7YTHUWnjsREJk7b/view?usp=share_link",
+      "published_at": "2022-11-17T19:44:24.000Z",
+      "createdAt": "2022-11-17T19:44:24.000Z",
+      "updatedAt": "2022-11-17T19:44:24.000Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-57?thumbnail=true",
+      "__v": 0
+    },
+    {
+      "_id": "660680b8ba552096186cd3b7",
+      "name": "Edition 56",
+      "edition_id": 56,
+      "status": 1,
+      "edition_link": "https://drive.google.com/open?id=1zAAWJraW3iluRrD8fpzzWU3yJHRzhtu0&authuser=0",
+      "published_at": "2024-01-17T11:48:02.000Z",
+      "createdAt": "2024-01-17T11:48:02.000Z",
+      "updatedAt": "2024-01-17T11:48:02.000Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-56?thumbnail=true",
+      "__v": 0
+    },
+    {
+      "_id": "660680b8ba552096186cd3b6",
+      "name": "Edition 55",
+      "edition_id": 55,
+      "status": 1,
+      "edition_link": "https://drive.google.com/file/d/1_ZD7hqqu8FjSBY-aj3zAx8WYdiYNv3Fr/view",
+      "published_at": "2024-01-17T11:45:44.000Z",
+      "createdAt": "2024-01-17T11:45:44.000Z",
+      "updatedAt": "2024-01-17T11:45:44.000Z",
+      "thumbnail": "https://team.dtutimes.com/api/v1/images/get/edition-55?thumbnail=true",
+      "__v": 0
+    }
+  ]
+}

@@ -19,4 +19,4 @@ const putSchema = Joi.object({
 const validator = (schema) => (payload) => schema.validate(payload, { abortEarly: false });
 
 exports.validatePost = validator(postSchema);
-exports.validatePut = validator(postSchema);
+exports.validatePut = validator(putSchema);

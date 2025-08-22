@@ -1,6 +1,6 @@
 # DTU Times Edition API Docs
 
-Base URL: `6887959d8e4235a53376e811`
+Base URL: `https://dtu-times-backend-n7c3.onrender.com/`
 
 ---
 
